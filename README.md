@@ -1,2 +1,3 @@
-# tmp-hash-scratch-20260912
-temporary scratch for hash verification - delete after
+# DELETE THIS REPO
+
+Temporary scratch created by a cloud agent for SHA-256 verification. Safe to delete.
